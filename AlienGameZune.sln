@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlienGameZune", "AlienGame\AlienGameZune.csproj", "{2BEA812F-15B8-4A0C-9A71-BD915270D423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BEA812F-15B8-4A0C-9A71-BD915270D423}.Debug|Zune.ActiveCfg = Debug|Zune
+		{2BEA812F-15B8-4A0C-9A71-BD915270D423}.Debug|Zune.Build.0 = Debug|Zune
+		{2BEA812F-15B8-4A0C-9A71-BD915270D423}.Debug|Zune.Deploy.0 = Debug|Zune
+		{2BEA812F-15B8-4A0C-9A71-BD915270D423}.Release|Zune.ActiveCfg = Release|Zune
+		{2BEA812F-15B8-4A0C-9A71-BD915270D423}.Release|Zune.Build.0 = Release|Zune
+		{2BEA812F-15B8-4A0C-9A71-BD915270D423}.Release|Zune.Deploy.0 = Release|Zune
+		{E29B2DBE-6ECC-4A84-986B-E1E78242D200}.Debug|Zune.ActiveCfg = Debug|x86
+		{E29B2DBE-6ECC-4A84-986B-E1E78242D200}.Release|Zune.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
